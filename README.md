@@ -13,4 +13,4 @@
   - [ ] Spring Boot
 - [x] MongoDB
 - [x] KeystoneJS
-- [x] PostgreSQL
+- [x] PostgreSql
