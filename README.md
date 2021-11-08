@@ -1,9 +1,9 @@
 >>>
 Hi, this is Oğuzhan,
 
-i am on my way to learn new technologies about software,
+i am on my way to learn new software technologies,
 
-keep following me for new repos
+keep following me
 >>>
 
 1. Frontend
