@@ -17,8 +17,6 @@ keep following me
 2. Backend
 - [x] Node.js
   - [x] ExpressJS
-- [ ] Java
-  - [ ] Spring Boot (In progress)
 - [x] MongoDB
 - [x] KeystoneJS
 - [x] PostgreSql
