@@ -10,13 +10,14 @@ keep following me
 - [x] JavaScript
   - [x] ReactJS
   - [x] NextJS
-  - [x] Redux
-  - [x] VueJS
-  - [x] NuxtJS
+  - [ ] Remix.run
+  - [x] Redux-Thunk
+  - [x] Redux-Saga
 
 2. Backend
 - [x] Node.js
   - [x] ExpressJS
+  - [ ] Nestjs
 - [x] MongoDB
 - [x] KeystoneJS
 - [x] PostgreSql
